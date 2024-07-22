@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently a Assistant Professor in Computer Science and Engineering at Florida Southern College in Lakeland, Florida, USA.
+- 🔭 I’m currently an Assistant Professor in Computer Science and Engineering at Florida Southern College in Lakeland, Florida, USA.
 - 🌱 I’m interested in AI for Medicine.
 - 👯 I’m am teaching Python Programming and other courses in Computer Science and Engineering.
 - 
