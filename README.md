@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently an Assistant Professor in Computer Science and Engineering at Florida Southern College in Lakeland, Florida, USA.
+- 🔭 I’m currently an Assistant Professor in Computer Engineering at Florida Polytechnic University in Lakeland, Florida, USA.
 - 🌱 I’m interested in AI for Medicine.
-- 👯 I’m am teaching Python Programming and other courses in Computer Science and Engineering.
+- 👯 I’m am teaching Python Programming and other courses in Computer Engineering.
 - 
 <!--
 **hoanbklucky/hoanbklucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
